@@ -9,7 +9,10 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+<!--
+The logo is already the profile pic... redundant.
 <img src="https://lpe.com/fav/lpe-logo.svg" alt="LPE logo" width="200" height="200" />  
+-->
 
 # **Lighting & Production Equipment, Inc.**
 _Quality audio, video, lighting and production services since 1976_
